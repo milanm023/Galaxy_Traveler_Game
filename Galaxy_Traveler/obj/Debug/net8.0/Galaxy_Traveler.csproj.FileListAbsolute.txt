@@ -1,0 +1,15 @@
+/Users/milanm/RiderProjects/Galaxy_Traveler_Game/Galaxy_Traveler/bin/Debug/net8.0/Galaxy_Traveler
+/Users/milanm/RiderProjects/Galaxy_Traveler_Game/Galaxy_Traveler/bin/Debug/net8.0/Galaxy_Traveler.deps.json
+/Users/milanm/RiderProjects/Galaxy_Traveler_Game/Galaxy_Traveler/bin/Debug/net8.0/Galaxy_Traveler.runtimeconfig.json
+/Users/milanm/RiderProjects/Galaxy_Traveler_Game/Galaxy_Traveler/bin/Debug/net8.0/Galaxy_Traveler.dll
+/Users/milanm/RiderProjects/Galaxy_Traveler_Game/Galaxy_Traveler/bin/Debug/net8.0/Galaxy_Traveler.pdb
+/Users/milanm/RiderProjects/Galaxy_Traveler_Game/Galaxy_Traveler/obj/Debug/net8.0/Galaxy_Traveler.GeneratedMSBuildEditorConfig.editorconfig
+/Users/milanm/RiderProjects/Galaxy_Traveler_Game/Galaxy_Traveler/obj/Debug/net8.0/Galaxy_Traveler.AssemblyInfoInputs.cache
+/Users/milanm/RiderProjects/Galaxy_Traveler_Game/Galaxy_Traveler/obj/Debug/net8.0/Galaxy_Traveler.AssemblyInfo.cs
+/Users/milanm/RiderProjects/Galaxy_Traveler_Game/Galaxy_Traveler/obj/Debug/net8.0/Galaxy_Traveler.csproj.CoreCompileInputs.cache
+/Users/milanm/RiderProjects/Galaxy_Traveler_Game/Galaxy_Traveler/obj/Debug/net8.0/Galaxy_Traveler.sourcelink.json
+/Users/milanm/RiderProjects/Galaxy_Traveler_Game/Galaxy_Traveler/obj/Debug/net8.0/Galaxy_Traveler.dll
+/Users/milanm/RiderProjects/Galaxy_Traveler_Game/Galaxy_Traveler/obj/Debug/net8.0/refint/Galaxy_Traveler.dll
+/Users/milanm/RiderProjects/Galaxy_Traveler_Game/Galaxy_Traveler/obj/Debug/net8.0/Galaxy_Traveler.pdb
+/Users/milanm/RiderProjects/Galaxy_Traveler_Game/Galaxy_Traveler/obj/Debug/net8.0/Galaxy_Traveler.genruntimeconfig.cache
+/Users/milanm/RiderProjects/Galaxy_Traveler_Game/Galaxy_Traveler/obj/Debug/net8.0/ref/Galaxy_Traveler.dll
